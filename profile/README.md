@@ -1,14 +1,14 @@
 #  <img src="https://user-images.githubusercontent.com/61543012/197379632-e6edad80-f7f3-422e-86bb-efa60410e220.png" height="35" width="35" align-items="center" justify-content="center" /> ENTIRE
-A fashion magazine with a focus on the metaverse community  
+A fashion magazine with a focus on the metaverse community. Giving both models of graphic design and the brands associated with their content the ability to showcase new additions to the blockchain. 
 
-## Know when the next big thing in the metaverse is about to 3RUPT
+## Briding the fashion world with the metaverse, for a open-source scene.
 
-😡 Frustrated? Can't seem to buy before the blast-off? 
+👒 Added support for games with NFT's and fashion focuses.
 
-❓ Use pre-built queries or custom queries, even third-party queries from other dapps.
+👜 Designer brands and relationships built on quality assurance.
 
-🔺 Get in before the trend takes off using data analysis and notifications, then ride the wave down.
+🧵 Smart contract details and permissable source code available while browsing.
 
-🚩 Be the FIRST to get the latest and the greatest.
+👟 Build your own fashion brand enter to have it featured in the ENTIRE.
 
 #### [An ECE Dapp](https://github.com/elicharlese)
